@@ -1,0 +1,8 @@
+Repository GitHub: https://github.com/c-elisa/bookWorlds
+Analisi SonarCloud: https://sonarcloud.io/project/overview?id=c-elisa_bookWorlds
+
+Per scegliere il tipo di persistenza da utilizzare, impostare la relativa proprietà nel file app.properties a:
+-file per persistenza con il file system
+-jdbc per persistenza con il database
+
+Per poter usare la persistenza in versione DBMS in allegato è stato fornito il file .sql per poter istanziare il database.
